@@ -10,7 +10,8 @@ extends Node
 func _ready():
 	pass # Replace with function body.
 
-#This is test script
+#This is test script 
+#Second try
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 #func _process(delta):
 #	pass
