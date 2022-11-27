@@ -12,6 +12,7 @@ func _ready():
 
 #This is test script 
 #Second try
+#This try for new brach named test
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 #func _process(delta):
 #	pass
