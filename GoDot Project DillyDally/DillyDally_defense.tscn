@@ -1,0 +1,9 @@
+[gd_scene format=2]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="BackGround" type="CanvasLayer" parent="."]
+
+[node name="MeshInstance2D" type="MeshInstance2D" parent="BackGround"]
+
+[node name="Sprite" type="Sprite" parent="BackGround"]
